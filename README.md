@@ -39,7 +39,7 @@ movie-to-trailer/
 
 ### Process Flow
 
-![Process Flow Chart](docs/figures/docs/figures/processingflowchart.png)
+![Process Flow Chart](docs/figures/processingflowchart.png)
 
 ### Model Architecture
 
